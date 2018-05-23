@@ -1,0 +1,6 @@
+﻿  task7_func.c
+c:\users\lera\documents\visual studio 2017\projects\project1\task7\task7_func.c(6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  task7_main.c
+  Создание кода...
+c:\users\lera\documents\visual studio 2017\projects\project1\task7\task7_func.c(7): warning C4716: func: должна возвращать значение
+  task7.vcxproj -> C:\Users\lera\Documents\Visual Studio 2017\Projects\Project1\Debug\task7.exe

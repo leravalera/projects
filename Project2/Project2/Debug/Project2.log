@@ -1,0 +1,5 @@
+﻿  Project2.cpp
+c:\users\lera\documents\visual studio 2017\projects\project2\project2\project2.cpp(29): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+c:\users\lera\documents\visual studio 2017\projects\project2\project2\project2.cpp(15): warning C4101: f: неиспользованная локальная переменная
+c:\users\lera\documents\visual studio 2017\projects\project2\project2\project2.cpp(61): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Project2.vcxproj -> C:\Users\lera\Documents\Visual Studio 2017\Projects\Project2\Debug\Project2.exe

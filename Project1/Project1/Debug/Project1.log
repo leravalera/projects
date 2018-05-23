@@ -1,0 +1,4 @@
+﻿  task1.c
+c:\users\lera\documents\visual studio 2017\projects\project1\project1\task1.c(10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\lera\documents\visual studio 2017\projects\project1\project1\task1.c(14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Project1.vcxproj -> C:\Users\lera\Documents\Visual Studio 2017\Projects\Project1\Debug\task1.exe

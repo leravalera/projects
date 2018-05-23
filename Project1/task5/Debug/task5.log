@@ -1,0 +1,5 @@
+﻿  task5_func.c
+c:\users\lera\documents\visual studio 2017\projects\project1\task5\task5_func.c(7): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  task5_main.c
+  Создание кода...
+  task5.vcxproj -> C:\Users\lera\Documents\Visual Studio 2017\Projects\Project1\Debug\task5.exe

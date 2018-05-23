@@ -1,0 +1,10 @@
+﻿  task1.c
+  task2.c
+  task3.c
+  task4.c
+  task5.c
+  task6.c
+c:\users\lera\documents\visual studio 2017\projects\project3\while\task6.c(10): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\lera\documents\visual studio 2017\projects\project3\while\task6.c(12): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+  while.vcxproj -> C:\Users\lera\Documents\Visual Studio 2017\Projects\Project3\Debug\while.exe
