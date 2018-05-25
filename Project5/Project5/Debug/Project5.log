@@ -1,0 +1,5 @@
+﻿  Complex.cpp
+  main.cpp
+c:\users\lera\documents\visual studio 2017\projects\project5\project5\main.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Project5.vcxproj -> C:\Users\lera\Documents\Visual Studio 2017\Projects\Project5\Debug\Project5.exe

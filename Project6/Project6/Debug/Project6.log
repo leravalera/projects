@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\lera\documents\visual studio 2017\projects\project6\project6\main.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Queue.cpp
+  Создание кода...
+c:\users\lera\documents\visual studio 2017\projects\project6\project6\queue.cpp(52): warning C4715: Queue::operator=: значение возвращается не при всех путях выполнения
+c:\users\lera\documents\visual studio 2017\projects\project6\project6\queue.cpp(40): warning C4715: Queue::operator=: значение возвращается не при всех путях выполнения
+  Project6.vcxproj -> C:\Users\lera\Documents\Visual Studio 2017\Projects\Project6\Debug\Project6.exe
